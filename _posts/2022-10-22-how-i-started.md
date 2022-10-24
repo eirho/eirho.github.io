@@ -1,7 +1,7 @@
 ---
-title: How I started
+title: My Journey
 date: 2022-10-22 12:00
-categories: [Networking,IT,CCNA]
+categories: [INE,CCNA,eJPT]
 tags: [servers,switches,routers,computers]      # TAG names should always be lowercase
 ---
 
