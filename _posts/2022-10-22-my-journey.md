@@ -24,7 +24,18 @@ My journey with CCNA started with attending a class room based crash course for 
 
 ## eJPT
 
-The eJPT really stood out to me, not just as a beginner level certificate, but as a hands-on practical pentest certification. INE provides a free PTS course for preparation for the eJPT exam. I studied for the eJPT partially from INE and mostly from TryHackMe, I spent the majority of my time completing the paths provided in a particular sequence being; Intro to CC, complete beginner, pre security, web fundamentals, jr penetration tester and cyber defense.
+The eJPT really stood out to me, not just as a beginner level certificate, but as a hands-on practical pentest certification. INE provides a free PTS course for preparation for the eJPT exam. I studied for the eJPT partially from INE and mostly from TryHackMe.
 
+## TryHackMe
 
+I spent the majority of my time completing the paths provided in a particular sequence being;
+
+* Intro to Cybersecurity
+* Complete Beginner
+* Pre-Security
+* Web Fundamanetals
+* Jr Pentetration Tester
+* Cyber Defense 
+
+In this sequence I was able to climb to top 2% on THM.
 
