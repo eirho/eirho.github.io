@@ -30,7 +30,7 @@ The second certificate I pursued was the IBM Cybersecurity Analyst. This course 
 * Cybersecurity Capstone: Breach Response Case Studies
 * IBM Cybersecurity Analyst Assessment
 
-![img-description]()
+![img-description](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~S5GMAFLEVFS8/CERTIFICATE_LANDING_PAGE~S5GMAFLEVFS8.jpeg)
 
 ## AWS Fundamentals
 
