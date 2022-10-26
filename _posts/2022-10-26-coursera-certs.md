@@ -5,8 +5,6 @@ categories: [coursera,certifications]
 tags: [coursera,cybersecurity,computers]      # TAG names should always be lowercase
 ---
 
-# Coursera Certifications
-
 ## Google IT Support Professional Certificate
 
 Around august 2021 I decided to start studying for specific certifications that would help me on my infosec journey. The first one was the Google IT Support. I've read countless reviews online that the course provided a great insight in general network engineering and security topics. I decided to go for it. The certification consisted of 5 courses which where developed by Google that included hands-on, practise-based assessment which were designed to prepare you for entry-level roles in IT Support.
