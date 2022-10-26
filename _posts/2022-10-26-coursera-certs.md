@@ -1,8 +1,8 @@
 ---
 title: Coursera Certifications
 date: 2022-10-26 12:00
-categories: [coursera, certifications]
-tags: [infosec,cybersecurity,computers]      # TAG names should always be lowercase
+categories: [Certifications]
+tags: [google, ibm, aws, computers]      # TAG names should always be lowercase
 ---
 
 ## Google IT Support Professional Certificate
