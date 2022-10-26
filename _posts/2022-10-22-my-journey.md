@@ -1,8 +1,8 @@
 ---
 title: My Journey
 date: 2022-10-22 12:00
-categories: [INE,CCNA,eJPT]
-tags: [servers,switches,routers,computers]      # TAG names should always be lowercase
+categories: [certifications, story]
+tags: [infosec,servers,switches,routers,computers]      # TAG names should always be lowercase
 ---
 
 # My Cybersecurity Journey
