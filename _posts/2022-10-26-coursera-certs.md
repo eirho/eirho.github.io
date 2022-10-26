@@ -41,6 +41,8 @@ My next course was abit off-topic. I decided to get some insight on cloud techno
 * AWS Fundamentals: Migrating to the Cloud
 * AWS Fundamentals: Building Severless Applications
 
+![img-description](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~GPQNKXSFG6JV/CERTIFICATE_LANDING_PAGE~GPQNKXSFG6JV.jpeg)
+
 ## Palo Alto Networks Cybersecurity
 
 I then got back on track and looked into Palo Alto Networks particularly in cybersecurity and how infosec impacts Palo Alto's technology. This course also prepares you for entry-level careers in cybersecurity, with an emphasis on learning the fundamentals of networking, network security, cloud security and security operations related to Palo Alto Networks Technology and the cybersecuruity industry as a whole. The course prepares you for the certification PCCET. The certification consisted of 4 courses listed below.
