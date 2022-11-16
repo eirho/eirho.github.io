@@ -2,7 +2,7 @@
 title: My First Project
 date: 2022-11-16 12:00
 categories: [Projects]
-tags: [discord, bots, javascript]      # TAG names should always be lowercase
+tags: [discord, bots, javascript, computers]      # TAG names should always be lowercase
 ---
 
 # Project Nessi
